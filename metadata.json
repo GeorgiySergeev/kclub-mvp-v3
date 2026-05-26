@@ -1,0 +1,6 @@
+{
+  "name": "Kylyvnyk Club",
+  "description": "Premium private business club, international networking, partner benefits with verify-card, real-time messaging, events, and admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
